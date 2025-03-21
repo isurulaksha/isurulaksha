@@ -62,4 +62,4 @@
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+⭐ **If you find my work impressive, I'd be thrilled if youu could show your support by starring my repositories!** ⭐
