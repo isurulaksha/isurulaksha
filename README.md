@@ -39,6 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=isurulaksha&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurulaksha&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurulaksha&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=isurulaksha&theme=tokyonight&hide_border=true&area=true" height="150" alt="GitHub Contribution Graph" />
 </p>
 
 ---
